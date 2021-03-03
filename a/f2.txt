@@ -1,1 +1,2 @@
 file 2 content
+feature-2: file 2 overwrite
