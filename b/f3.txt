@@ -1,2 +1,2 @@
-file 3 content
-file 3 changes
+feature-1: file 3 changes
+123456789
